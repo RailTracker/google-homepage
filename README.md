@@ -1,1 +1,5 @@
-# google-homepage - http://www.theodinproject.com/web-development-101/html-css
+# google-homepage
+
+Attempt to replicate Google homepage in pure html/css.
+
+Project from The Odin Project
